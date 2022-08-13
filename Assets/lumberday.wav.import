@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lumberday.wav-3eae0f30918f4c97a2dddf906421a401.sample"
+
+[deps]
+
+source_file="res://Assets/lumberday.wav"
+dest_files=[ "res://.import/lumberday.wav-3eae0f30918f4c97a2dddf906421a401.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

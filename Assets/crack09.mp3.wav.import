@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/crack09.mp3.wav-dd6e24b45b65eb2991755363c3998d7d.sample"
+
+[deps]
+
+source_file="res://Assets/crack09.mp3.wav"
+dest_files=[ "res://.import/crack09.mp3.wav-dd6e24b45b65eb2991755363c3998d7d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
